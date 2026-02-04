@@ -10,7 +10,8 @@ This project is a fully responsive Netflix website clone built using HTML & CSS.
 🎞 Hover Animations – Smooth effects when interacting with movie thumbnails.
 🌙 Dark Mode Theme – Netflix’s signature dark-themed interface.
 🛠 Tech Stack
-🏗 HTML – Structure of the webpage.
+
 🎨 CSS – Styling and layout design.
 ⚡ JavaScript – (If added for interactivity like sliders).
+
 
